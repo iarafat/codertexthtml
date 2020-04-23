@@ -3,3 +3,15 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.user-html p {
+    @apply text-lg text-gray-700 mt-4
+}
+
+.user-html h2 {
+    @apply font-bold text-2xl mt-10 mb-2
+}
+
+.user-html ul {
+    @apply text-gray-800 list-disc ml-8 my-6
+}

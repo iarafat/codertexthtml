@@ -29030,6 +29030,27 @@ video {
   transition-duration: 1000ms;
 }
 
+.user-html p {
+  font-size: 1.125rem;
+  color: #374151;
+  margin-top: 1rem
+}
+
+.user-html h2 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem
+}
+
+.user-html ul {
+  color: #252f3f;
+  list-style-type: disc;
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem
+}
+
 @media (min-width: 640px) {
   .sm\:sr-only {
     position: absolute;
