@@ -29051,6 +29051,10 @@ video {
   margin-bottom: 1.5rem
 }
 
+.h-480 {
+  height: 480px;
+}
+
 @media (min-width: 640px) {
   .sm\:sr-only {
     position: absolute;

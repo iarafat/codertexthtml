@@ -15,3 +15,7 @@
 .user-html ul {
     @apply text-gray-800 list-disc ml-8 my-6
 }
+
+.h-480 {
+    height: 480px;
+}
